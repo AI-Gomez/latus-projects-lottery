@@ -18,8 +18,7 @@ This code selects random numbers from the winning numbers that have been drawn s
 
 **Tips are greatly appreciated**
 <br/><br/>
-<br/><br/>
-<br/><br/>
+
 ![](https://www.gpg4win.org/img/bitcoin-logo.png)
 
 Bitcoin Address: ```3NhCWegat4qugsHApNRQcLyHppXAZLoQuD```
@@ -27,6 +26,7 @@ Bitcoin Address: ```3NhCWegat4qugsHApNRQcLyHppXAZLoQuD```
 ![](https://bitcoinist.com/wp-content/uploads/2017/06/eth-logo.jpg)
 
 Ethereum Address: ```0xE8bCc2a93Ef4733a04Bb84202B8116514108eD28```
-
+<br/><br/>
+<br/><br/>
 
 # Good Luck!
