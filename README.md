@@ -3,21 +3,23 @@
 
 This code selects random numbers from the winning numbers that have been drawn since the inception of the specified game. 
 
-[Click Here](https://github.com/AI-Gomez/latus-projects/blob/main/lottery/Lotto_Texas.ipynb) for the Texas Lotto Number Generator
+[Click Here](https://github.com/AI-Gomez/latus-projects-lottery/blob/master/Lotto_Texas.ipynb) for the Texas Lotto Number Generator
 
-[Click Here](https://github.com/AI-Gomez/latus-projects/blob/main/lottery/TX2step.ipynb) for the Texas 2 Step Number Generator
+[Click Here](https://github.com/AI-Gomez/latus-projects-lottery/blob/master/TX2step.ipynb) for the Texas 2 Step Number Generator
 
-[Click Here](https://github.com/AI-Gomez/latus-projects/blob/main/lottery/cash_five.ipynb) for the Cash 5 Number Generator
+[Click Here](https://github.com/AI-Gomez/latus-projects-lottery/blob/master/cash_five.ipynb) for the Cash 5 Number Generator
 
 ### How to Reproduce Results
 
 -Simply copy and paste the code (starting with the imports) within the cells and run it. For multiple draws, re-run the cell containing the number generator function as many times as needed.
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 **Tips are greatly appreciated**
-
-
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
 ![](https://www.gpg4win.org/img/bitcoin-logo.png)
 
 Bitcoin Address: ```3NhCWegat4qugsHApNRQcLyHppXAZLoQuD```
