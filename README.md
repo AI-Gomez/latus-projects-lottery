@@ -16,7 +16,7 @@ This code selects random numbers from the winning numbers that have been drawn s
 <br/><br/>
 <br/><br/>
 
-**Tips are greatly appreciated**
+**If you found this useful and hit it big, let me know! Good Luck!**
 <br/><br/>
 
 ![](https://www.gpg4win.org/img/bitcoin-logo.png)
