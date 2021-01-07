@@ -11,7 +11,7 @@ This code selects random numbers from the winning numbers that have been drawn s
 
 ### How to Reproduce Results
 <br/><br/>
-Simply copy and paste the code (starting with the imports) within the cells and run it. For multiple draws, re-run the cell containing the number generator function as many times as needed.
+Simply copy and paste the All-in-One Functions and run it. For multiple draws, re-run the cell containing the number generator function as many times as needed.
 <br/><br/>
 <br/><br/>
 <br/><br/>
