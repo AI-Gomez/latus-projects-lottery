@@ -9,6 +9,8 @@ This code selects random numbers from the winning numbers that have been drawn s
 
 [Click Here](https://github.com/AI-Gomez/latus-projects-lottery/blob/master/cash_five.ipynb) for the Cash 5 Number Generator
 
+Coming Soon! Mega Millions Number Generator
+
 ### How to Reproduce Results
 <br/><br/>
 Simply copy and paste the All-in-One Functions and run it. For multiple draws, re-run the cell containing the number generator function as many times as needed.
