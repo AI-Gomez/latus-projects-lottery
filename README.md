@@ -4,16 +4,16 @@
 This code selects random numbers from the winning numbers that have been drawn since the inception of the specified game. 
 
 [Click Here](https://github.com/AI-Gomez/latus-projects-lottery/blob/master/Lotto_Texas.ipynb) for the Texas Lotto Number Generator
-- Lotto Texas drawings are held every Wednesday and Saturday evening at 10:12 p.m. CT
+- Lotto Texas drawings are held every Wednesday and Saturday evening at 10:12 p.m. CT.  
 <br/><br/>
 [Click Here](https://github.com/AI-Gomez/latus-projects-lottery/blob/master/TX2step.ipynb) for the Texas 2 Step Number Generator
-- Texas Two Step drawings are held every Monday and Thursday at 10:12 p.m. CT.
+- Texas Two Step drawings are held every Monday and Thursday at 10:12 p.m. CT.   
 <br/><br/>
 [Click Here](https://github.com/AI-Gomez/latus-projects-lottery/blob/master/cash_five.ipynb) for the Cash 5 Number Generator
-- Cash Five drawings are held Monday through Saturday at 10:12 p.m. CT.
+- Cash Five drawings are held Monday through Saturday at 10:12 p.m. CT.   
 <br/><br/>
 [Click Here](https://github.com/AI-Gomez/latus-projects-lottery/blob/master/Mega_Millions.ipynb) for the Mega Millions Number Generator
-- Mega Millions drawings are broadcast every Tuesday and Friday evening at 10:12 p.m. CT.
+- Mega Millions drawings are broadcast every Tuesday and Friday evening at 10:12 p.m. CT.   
 <br/><br/>
 ### How to Reproduce Results
 <br/><br/>
