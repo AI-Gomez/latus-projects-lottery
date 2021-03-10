@@ -1,4 +1,4 @@
-# Latus Projects - Texas Lotto Number Generator
+# Texas Lotto Number Generator
 **Hi! This repository contains number generators using the ```random.choice``` function.**
 
 This code selects random numbers from the winning numbers that have been drawn since the inception of the specified game. 
